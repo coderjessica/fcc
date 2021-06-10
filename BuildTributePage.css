@@ -1,0 +1,67 @@
+#main {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url(https://cdn.pling.com/img//hive/content-pre1/44518-1.jpg);
+    background-color: black;
+    background-size: 100%;
+}
+#image-div {
+    text-align: center;
+}
+#image-caption {
+    color:;
+    text-align: center;
+}
+h1 {
+    background: hsl(280, 3%, 18%);
+    color: ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+h2 {
+    background: hsl(280, 3%, 18%);
+    color: ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 40px;
+}
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #71c0de;
+}
+body {
+    color: white;
+    text-align: center;
+}
+.text {
+    text-align: center;
+    font-size: 20px
+}
+#div1 {
+    color: ;
+}
+#div2 {
+    background: #111111;
+    margin: auto;
+    padding: 40px;
+    padding-left: 80px; 
+    padding-right: 80px;
+    line-height: 26pt;
+    opacity: 90%;
+}
+#h3other {
+    text-align: center;
+}
+#title {
+
+}
+.header {
+
+}
