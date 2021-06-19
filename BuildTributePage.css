@@ -12,8 +12,17 @@
     text-align: center;
 }
 #image-caption {
-    color:;
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
 }
 h1 {
     background: hsl(280, 3%, 18%);
@@ -21,6 +30,7 @@ h1 {
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
+    font-size: 52px;
 }
 h2 {
     background: hsl(280, 3%, 18%);
@@ -28,7 +38,7 @@ h2 {
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
-    font-size: 40px;
+    font-size: 38px;
 }
 h3 {
     font-size: 30px;
@@ -44,10 +54,7 @@ body {
     text-align: center;
     font-size: 20px
 }
-#div1 {
-    color: ;
-}
-#div2 {
+#content {
     background: #111111;
     margin: auto;
     padding: 40px;
@@ -56,12 +63,14 @@ body {
     line-height: 26pt;
     opacity: 90%;
 }
+footer {
+    background: hsl(280, 3%, 18%);
+    color: ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
 #h3other {
     text-align: center;
-}
-#title {
-
-}
-.header {
-
 }
